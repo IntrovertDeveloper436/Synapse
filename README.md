@@ -1,1 +1,1 @@
-# Synapse
+# Synapse for project management 
